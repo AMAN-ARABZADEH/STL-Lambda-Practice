@@ -25,6 +25,9 @@ g++ main.cpp -o main
 - Lambdas are used with various STL algorithms such as `std::for_each`, `std::transform`, `std::remove_if`, and `std::sort`.
 - The code provides output for each step to demonstrate the results.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to explore, modify, and use the code as you wish.
 
